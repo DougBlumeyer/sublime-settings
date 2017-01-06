@@ -1,0 +1,38 @@
+{
+	"binary_file_patterns":
+	[
+		"node_modules/*",
+		"dist/*",
+		"*.pkl",
+		"app/static/vendor/*",
+		"data/primary_data",
+		"app/static/.webassets-cache",
+		"app/static/all.css"
+	],
+	"file_exclude_patterns":
+	[
+		"test/npm-debug.log*",
+		"npm-debug.log*",
+		"__init__.py",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		"coverage",
+		".nyc_output",
+		".git",
+		"venv"
+	],
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}
