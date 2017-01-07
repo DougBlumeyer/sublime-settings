@@ -7,14 +7,15 @@
 		"app/static/vendor/*",
 		"data/primary_data",
 		"app/static/.webassets-cache",
-		"app/static/all.css"
+		".pylintrc",
+		"app/static/app.css"
 	],
 	"file_exclude_patterns":
 	[
 		"test/npm-debug.log*",
 		"npm-debug.log*",
 		"__init__.py",
-		"*.pyc"
+		"*.pyc",
 	],
 	"folder_exclude_patterns":
 	[
