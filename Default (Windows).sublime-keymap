@@ -1,3 +1,0 @@
-[
-	{ "keys": ["ctrl+k", "alt+left"], "command": "destroy_pane", "args": {"direction": "self"} }
-]
